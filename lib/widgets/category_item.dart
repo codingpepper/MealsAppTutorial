@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../screens/category_meals_screen.dart';
 
 class CategoryItem extends StatelessWidget {
+  //Comment
   final String id;
   final String title;
   final Color color;
